@@ -1,4 +1,4 @@
-package v2.version2;
+package v2.version1;
 
 
 import org.springframework.stereotype.Component;

@@ -1,8 +1,7 @@
-package v2.version2;
+package v2.version1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
 
 /**
  * Created by Igor Ryabtsev on 16.12.2016.

@@ -2,6 +2,8 @@ package v2.version2;
 
 import org.junit.Before;
 import org.junit.Test;
+import v2.version1.Parse;
+import v2.version1.Parser;
 
 import static org.junit.Assert.*;
 

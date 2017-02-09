@@ -1,4 +1,4 @@
-package v2.version2;
+package v2.version1;
 
 /**
  * Created by Igor Ryabtsev on 16.12.2016.
