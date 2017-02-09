@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
  * который предназначен для синтаксического анализа
  * текста
  */
-@Component
+
 public class Parser implements Parse{
 
     private Matcher matcher;
@@ -22,11 +22,10 @@ public class Parser implements Parse{
         pattern = Pattern.compile(regex);
     }
 
-    public Parser() {
-    }
+
 
     @Override
-    public boolean parseWords(String str) {
+    public boolean parseInt(String str) {
 
         matcher = pattern.matcher(str);
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2_main.iml" group="ru.innopolis.uni.course3.task.v2" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.innopolis.uni.course3.task.v2_test.iml" group="ru.innopolis.uni.course3.task.v2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java8First.iml" filepath="$PROJECT_DIR$/.idea/modules/Java8First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java8First_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java8First_main.iml" group="Java8First" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java8First_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java8First_test.iml" group="Java8First" />
     </modules>
   </component>
 </project>

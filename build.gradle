@@ -2,7 +2,7 @@ apply plugin : "java"
 apply plugin : "groovy"
 apply plugin: "application"
 
-mainClassName = "v2.version2.Main"
+mainClassName = "v2.version2.MainSpring"
 compileJava.options.encoding="UTF-8"
 compileTestJava.options.encoding="UTF-8"
 

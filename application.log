@@ -28,3 +28,56 @@
 2016-12-26 11:32:44,131 [INFO ][main            ][             Service] - Программа заверишла проверку
 2016-12-26 11:51:10,163 [WARN ][main            ][context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'parseFile' defined in file [C:\Users\innopolis\IdeaProjects\ru.innopolis.uni.course3.task.v2\build\classes\main\v2\version2\ParseFile.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean found for dependency [java.lang.String]: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
 2016-12-26 11:54:48,908 [WARN ][Thread-0        ][             Service] - Текст в C:\Main\Task\тест2.txt содержит не уникальные слова или не соответсвует принятому шаблону
+2017-01-14 12:28:28,191 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:28:28,201 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит не уникальные слова или не соответсвует принятому шаблону
+2017-01-14 12:32:14,768 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:32:14,772 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:34:20,523 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:34:20,531 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:35:53,047 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:38:01,092 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:38:47,266 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:42:00,489 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:42:26,845 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:45:08,139 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:45:12,853 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:45:12,863 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:45:19,656 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:46:46,111 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:47:08,641 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:48:08,116 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:48:16,058 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:50:45,978 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:53:41,342 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:54:42,191 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:54:48,748 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:56:05,275 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:56:44,474 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:57:06,014 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:57:52,155 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:58:14,992 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:58:15,039 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:58:26,015 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:58:37,168 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:58:52,968 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:59:08,745 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 12:59:14,591 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 12:59:14,604 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 13:01:30,349 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:01:55,413 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:06:47,237 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:07:24,065 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:07:33,196 [WARN ][Thread-0        ][             Service] - Текст в C:\Main2\Task\тест1.txt содержит отрицательные числа или не четный числа
+2017-01-14 13:07:37,790 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:09:15,903 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:11:40,441 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:12:07,634 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:12:17,591 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:13:25,314 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:14:49,235 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:15:04,284 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:18:12,984 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-14 13:19:18,628 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-15 13:23:20,746 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-15 13:24:49,580 [INFO ][main            ][             Service] - Программа заверишла проверку
+2017-01-15 13:26:49,437 [INFO ][main            ][             Service] - Программа заверишла проверку

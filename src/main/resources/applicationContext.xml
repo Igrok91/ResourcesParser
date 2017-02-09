@@ -10,18 +10,17 @@
 
     <context:component-scan base-package="v2.version2"/>
      <bean id = "parserFile" class="v2.version2.ParseFile" scope="prototype">
-         <constructor-arg name="resource" value="C:\Main\Task\тест2.txt"/>
-         <constructor-arg name="regex" value="[а-яА-Я0-9—\p{Punct}\s]+"/>
+         <constructor-arg name="regex" value="[0-9]+"/>
          <constructor-arg name="service" ref="service"/>
          <property name="parser" ref="parser"/>
          <property name="validator" ref="validator"/>
     </bean>
 
 
-    <bean id = "parser" class="v2.version2.Parser">
-        <constructor-arg name="regex" value="[а-яА-Я0-9—\p{Punct}\s]+"/>
+    <bean id = "parser" class="v2.version2.Parser" scope="prototype">
+        <constructor-arg name="regex" value="[0-9\s]+"/>
     </bean>
-    <bean id = "validator" class = "v2.version2.ValidatorUnique"/>
+    <bean id = "validator" class = "v2.version2.ValidatorNumbers" scope="prototype"/>
     <bean id="service" class="v2.version2.Service"/>
     <!-- <bean id="dbDownloader" class="ru.innopolis.ioctest.io.DBDownloader"/>-->
     <!--  <context:component-scan base-package="ru.innopolis"/>-->

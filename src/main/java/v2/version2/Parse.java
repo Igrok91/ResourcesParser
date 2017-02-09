@@ -12,5 +12,5 @@ public interface Parse {
      * @param str Принимает строку текста для проверки на соответствие шаблону
      * @return <tt>true</tt> если синтаксический анализ прошел успешно
      */
-    boolean parseWords(String str) ;
+    boolean parseInt(String str) ;
 }
